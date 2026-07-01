@@ -1,0 +1,194 @@
+canonical_identifier: bkk:krp/KR6j0709/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0709/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 楞嚴經精解評林
+  identifiers:
+    krp: KR6j0709
+    cbeta: X15n0301
+    cbeta_old_id: X15n0301
+    authorityid: CA0001976
+    json_key: X0301
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X15/X15n0301.xml
+    old_id: X15n0301
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0709_000-X.yaml, hash: 'sha256:38f4daa3fd83f225a783f4e23d3b99d85bc66b58da79c92027b4d2f16af8b640'}
+  - {seq: 1, filename: KR6j0709_001-X.yaml, hash: 'sha256:f7a485a53a0c8b08cfe6e6a57f2ffd7862ee4d2aedf8945205d1100f3e46e58f'}
+  - {seq: 2, filename: KR6j0709_002-X.yaml, hash: 'sha256:f8f464aa68ad02db778d2217cd0bcd977534ded7d2939633e6f09586438aa0db'}
+  - {seq: 3, filename: KR6j0709_003-X.yaml, hash: 'sha256:0d06800a4f6bcf4cdee16b774b7572a9faa3a23058f7dd17253beaa36bb0d863'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0709_000-X.markers.yaml, hash: 'sha256:9b990ba1bf7c0e35a296673bef2c373cb928aed6ef31b6ee815392a90b59812b'}
+  - {seq: 1, role: markers, filename: assets/KR6j0709_001-X.markers.yaml, hash: 'sha256:9262b32ba8e5984db97e9e8efc02d57bd07eca95abde252b473dd11c66f0f671'}
+  - {seq: 2, role: markers, filename: assets/KR6j0709_002-X.markers.yaml, hash: 'sha256:9d037d65649536381abc8e93c1ff6a50eae2cdcd89040d44c4bc0cb806cd113f'}
+  - {seq: 3, role: markers, filename: assets/KR6j0709_003-X.markers.yaml, hash: 'sha256:a48a82f763be98aed9a6dbd94399ed5c8a4a8870efe6332f191e1e4842afa177'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0709_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 301-A 釋教總論
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0709_X_000-mulu-2
+    span:
+    - front
+    - 593
+    - 593
+  label: No. 301-B 譯經便覽
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0709_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 26499
+  label: '新刻三續玄言釋經精解評林卷之一
+
+    　恕集'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0709_X_001-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經　第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0709_X_001-mulu-2
+    span:
+    - body
+    - 7966
+    - 7966
+  label: 大佛頂如來密因脩證了義諸菩薩萬行首楞嚴經　第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0709_X_001-mulu-3
+    span:
+    - body
+    - 18361
+    - 18361
+  label: 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經　第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0709_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 37415
+  label: 新刻三續玄言釋經精解評林卷之二　恕集
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0709_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 大佛頂如來密因脩證了義諸菩薩萬行首楞嚴經　第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0709_X_002-mulu-2
+    span:
+    - body
+    - 14523
+    - 14523
+  label: 大佛頂如來密因脩證了義諸菩薩萬行首楞嚴經　第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0709_X_002-mulu-3
+    span:
+    - body
+    - 23747
+    - 23747
+  label: 大佛頂如來密因脩證了義諸菩薩萬行首楞嚴經　第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0709_X_002-mulu-4
+    span:
+    - body
+    - 32748
+    - 32748
+  label: 大佛頂如來密因脩證了義諸菩薩萬行首楞嚴經　第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0709_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 32251
+  label: 新刻三續玄言釋經精解評林卷之三　恕集
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0709_X_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 大佛頂如來密因脩證了義諸菩薩萬行首楞嚴經　第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0709_X_003-mulu-2
+    span:
+    - body
+    - 12041
+    - 12041
+  label: 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經　第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0709_X_003-mulu-3
+    span:
+    - body
+    - 21864
+    - 21864
+  label: 大佛頂如來密因脩證了義諸菩薩萬行首楞嚴經　第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0709_X_003-mulu-4
+    span:
+    - body
+    - 31954
+    - 31954
+  label: No. 301-C 楞嚴經後序
+  type: mulu
+  level: 1
+hash: sha256:d5d9fbecf055722280a5993ff892dc9f56457e316ba41b2ea996725cbb0a878d
