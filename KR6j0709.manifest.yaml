@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0709/v1
 canonical_location: https://kanripo.org/bkk/KR6j0709/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 楞嚴經精解評林
   identifiers:
@@ -21,15 +21,15 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0709_000.yaml, hash: 'sha256:38f4daa3fd83f225a783f4e23d3b99d85bc66b58da79c92027b4d2f16af8b640'}
-  - {seq: 1, filename: KR6j0709_001.yaml, hash: 'sha256:f7a485a53a0c8b08cfe6e6a57f2ffd7862ee4d2aedf8945205d1100f3e46e58f'}
-  - {seq: 2, filename: KR6j0709_002.yaml, hash: 'sha256:f8f464aa68ad02db778d2217cd0bcd977534ded7d2939633e6f09586438aa0db'}
-  - {seq: 3, filename: KR6j0709_003.yaml, hash: 'sha256:0d06800a4f6bcf4cdee16b774b7572a9faa3a23058f7dd17253beaa36bb0d863'}
+  - {seq: 0, filename: KR6j0709_000.yaml, hash: 'sha256:7386592975de998a880ed050120d8d2107295464e126143b5245b69d1f75d0a1'}
+  - {seq: 1, filename: KR6j0709_001.yaml, hash: 'sha256:779df7fcce1947fd378386b1656fdb3ecab34368dd0e7759a1f374040791893b'}
+  - {seq: 2, filename: KR6j0709_002.yaml, hash: 'sha256:c603ec79652e04fc5a595a49e4f5c3174a981dd1d9e3643b4b1014bf61c47d3e'}
+  - {seq: 3, filename: KR6j0709_003.yaml, hash: 'sha256:5e169a71980f09ed33a78aa4b7eabefb34b0339e44caf16c6f906323da35b1a5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0709_000.markers.yaml, hash: 'sha256:729e4f45c135528050ea1440481d45545dd5fa92279ef3ec8caa6b521f2ac0a8'}
-  - {seq: 1, role: markers, filename: assets/KR6j0709_001.markers.yaml, hash: 'sha256:643c6fb7c5d792e046f8ed513ea6895125166dcc240e8dfb9dfa94714b531732'}
-  - {seq: 2, role: markers, filename: assets/KR6j0709_002.markers.yaml, hash: 'sha256:ba8da4e0503c81a2c374ef19e95cc783d9e48531237c4ac6b0152aa7bfbad04b'}
-  - {seq: 3, role: markers, filename: assets/KR6j0709_003.markers.yaml, hash: 'sha256:d62a7b87376435879719f33b3aeb11b1f3411d4ef33f8cec366a7a19acfebff0'}
+  - {seq: 0, role: markers, filename: assets/KR6j0709_000.markers.yaml, hash: 'sha256:76470f88ad0f6bf41a87d9f0803f87501ae901468088084c32bd264a55e98fdb'}
+  - {seq: 1, role: markers, filename: assets/KR6j0709_001.markers.yaml, hash: 'sha256:168ae3ada47cafeb15b59564c9a1983345b3bb5331241c230628948555ae95ec'}
+  - {seq: 2, role: markers, filename: assets/KR6j0709_002.markers.yaml, hash: 'sha256:68448448af213060bf61d636f0aca96d6e8f12737f0f6652333d13271020e43a'}
+  - {seq: 3, role: markers, filename: assets/KR6j0709_003.markers.yaml, hash: 'sha256:ef248d63a6f32e0d689f189705ea1e556dc987901c73d47fb3b9bd9722ea1e16'}
 table_of_contents:
 - ref:
     seq: 0
@@ -193,4 +193,7 @@ table_of_contents:
   label: No. 301-C 楞嚴經後序
   type: mulu
   level: 1
-hash: sha256:859cc35260999a5f8ea4a57d2415f4c9ac7a2080156d437139fcde67e98d3882
+hash: sha256:3af22caf154127485f71fd01b67f473d9c5f7285279d4164fb58faa6e4b3ff09
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
