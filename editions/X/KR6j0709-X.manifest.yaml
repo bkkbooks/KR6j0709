@@ -19,12 +19,12 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0709_000-X.yaml, hash: 'sha256:38f4daa3fd83f225a783f4e23d3b99d85bc66b58da79c92027b4d2f16af8b640'}
+  - {seq: 0, filename: KR6j0709_000-X.yaml, hash: 'sha256:b81fd4701642df759633b5f35c8db329e1638d7d2629440467e65c00dafbae14'}
   - {seq: 1, filename: KR6j0709_001-X.yaml, hash: 'sha256:f7a485a53a0c8b08cfe6e6a57f2ffd7862ee4d2aedf8945205d1100f3e46e58f'}
   - {seq: 2, filename: KR6j0709_002-X.yaml, hash: 'sha256:f8f464aa68ad02db778d2217cd0bcd977534ded7d2939633e6f09586438aa0db'}
   - {seq: 3, filename: KR6j0709_003-X.yaml, hash: 'sha256:0d06800a4f6bcf4cdee16b774b7572a9faa3a23058f7dd17253beaa36bb0d863'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0709_000-X.markers.yaml, hash: 'sha256:9b990ba1bf7c0e35a296673bef2c373cb928aed6ef31b6ee815392a90b59812b'}
+  - {seq: 0, role: markers, filename: assets/KR6j0709_000-X.markers.yaml, hash: 'sha256:d6b149132058d4aa75596cf7768e636f951f1f6d43386ec6e799cc04700102db'}
   - {seq: 1, role: markers, filename: assets/KR6j0709_001-X.markers.yaml, hash: 'sha256:9262b32ba8e5984db97e9e8efc02d57bd07eca95abde252b473dd11c66f0f671'}
   - {seq: 2, role: markers, filename: assets/KR6j0709_002-X.markers.yaml, hash: 'sha256:9d037d65649536381abc8e93c1ff6a50eae2cdcd89040d44c4bc0cb806cd113f'}
   - {seq: 3, role: markers, filename: assets/KR6j0709_003-X.markers.yaml, hash: 'sha256:a48a82f763be98aed9a6dbd94399ed5c8a4a8870efe6332f191e1e4842afa177'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0709_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 301-A 釋教總論
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0709_X_000-mulu-2
     span:
-    - front
+    - body
     - 593
     - 593
   label: No. 301-B 譯經便覽
@@ -191,4 +191,4 @@ table_of_contents:
   label: No. 301-C 楞嚴經後序
   type: mulu
   level: 1
-hash: sha256:d5d9fbecf055722280a5993ff892dc9f56457e316ba41b2ea996725cbb0a878d
+hash: sha256:96167df66230b14e5f18f6eb1acca894548596d012efd4110ff32a13c4c23fe2
